@@ -50,7 +50,7 @@ findAndLogEmployeeStatus({
     name: 'carl clark',
     status: ''
 });
-findAndLogEmployeeStatus({
-    name: prompt('What\'s the employee\'s name?'),
-    status: ''
-});
+// findAndLogEmployeeStatus({
+//     name: prompt('What\'s the employee\'s name?'),
+//     status: ''
+// });
